@@ -49,3 +49,29 @@ learning HTML
 
 
         </form>
+        
+        h1{
+            color: blueviolet;
+            background-color: burlywood;
+            font-size: 30px;
+            text-decoration: underline;
+            font-family: Arial;
+            text-align: center;
+        }
+        p{
+            color: rgb(36, 224, 108);
+            text-align: right;
+            line-height: 30px;
+            letter-spacing: 1 px;
+            column-count: 3;
+            column-gap: 60px;
+        }
+        ul{
+            border-bottom: 4px dotted crimson;
+            border-left: 8px dashed crimson;
+        }
+
+        li{
+            list-style-type: none;
+            text-shadow: 2px 2px lightgray;
+        }
