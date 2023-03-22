@@ -49,3 +49,24 @@ learning HTML
 
 
         </form>
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=h, initial-scale=1.0">
+    <title>About us</title>
+</head>
+<body>
+    <h1>About us</h1>
+       <p> 
+        in our environment activate our desire to eat energy-rich food. So even though
+           we’re not hungry, we get into the habit of picking up that extra soda or bagel.
+           We can’t always avoid these triggers in our wider environment. Instead, take a 
+          look at your immediate environment, such as your home or office. Research shows 
+          that even small changes can make a big difference and make weight management easier
+          for you.
+      </p>
+</body>
+</html>
