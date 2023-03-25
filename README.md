@@ -88,3 +88,22 @@ learning HTML
 </html>
 </body>
 </html>
+
+//<html>
+<head>
+<title>Register</title>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<!--This line includes the .css file-->
+<link href="http://localhost/register/formjscript.css" rel="stylesheet">
+</head>
+<body>
+<div id="main">
+<h2>Registration Form using JavaScript</h2>
+<div id="form_sample">
+</div> <!--This line includes the .js file-->
+<script src="http://localhost/register/formjscript.js"></script>
+</div>
+</body>
+</html>
