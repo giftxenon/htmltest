@@ -192,6 +192,12 @@ x = 5;
 y = 6;
 z = x + y;
 </code>
+//The EventSource (Server Sent Event SSE)
+
+var source = new EventSource("demo_sse.php");
+source.onmessage = function(event) {
+  document.getElementById("result").innerHTML += event.data + "<br>";
+};
 
 </body>
 </html>
