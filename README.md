@@ -185,6 +185,13 @@ For 60 years, WWF has worked to help people and nature thrive. As the world's le
   <h2>Tokyo</h2>
   <p>Tokyo is the capital of Japan.</p>
 </div>
+      
+      //computer code
+      <code>
+x = 5;
+y = 6;
+z = x + y;
+</code>
 
 </body>
 </html>
