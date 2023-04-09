@@ -218,5 +218,14 @@ function drop(ev) {
 </script>
 </body>
 </html>
+using let and var then those anot declared at all
+
+var x = 5;
+var y = 6;
+var z = x + y;
+
+let x = 5;
+let y = 6;
+let z = x + y;
 
 
