@@ -228,4 +228,7 @@ let x = 5;
 let y = 6;
 let z = x + y;
 
+const price1 = 5;
+const price2 = 6;
+let total = price1 + price2; difference between let and const
 
