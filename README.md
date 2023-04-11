@@ -232,3 +232,12 @@ const price1 = 5;
 const price2 = 6;
 let total = price1 + price2; difference between let and const
 
+let length = 16;            // 
+
+let lastName = "Johnson";   // 
+
+const x = {
+  firstName: "John",
+  lastName: "Doe"
+};    //string and bigInt, int 
+
